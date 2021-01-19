@@ -1,0 +1,2 @@
+# terraform-monitoring_infra
+Module which contains azurerm_monitor_action_group, azurerm_monitor_diagnostic_setting for subscription, azurerm_monitor_activity_log_alert and azurerm_resource_group_template_deployment.
